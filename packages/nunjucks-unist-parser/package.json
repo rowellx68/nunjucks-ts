@@ -1,0 +1,16 @@
+{
+  "name": "nunjucks-unist-parser",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "keywords": [],
+  "author": "Rowell Heria",
+  "license": "ISC",
+  "dependencies": {
+    "@types/unist": "^3.0.2",
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  }
+}
